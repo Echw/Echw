@@ -15,7 +15,7 @@ My name is Ewa and I'm a beginner frontend developer. I'm from Poland, living in
 
 
 
-## Demo
+## Check out my projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echw&repo=ReactWeatherApp&bg_color=0d1116&title_color=3671e0&text_color=a4aacb&icon_color=007ec6)](https://github.com/Echw/ReactWeatherApp) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echw&repo=My-dev-journey&bg_color=0d1116&title_color=3671e0&text_color=a4aacb&icon_color=007ec6)](https://github.com/Echw/My-dev-journey) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echw&repo=MarvelAPI&bg_color=0d1116&title_color=3671e0&text_color=a4aacb&icon_color=007ec6)](https://github.com/Echw/MarvelAPI)
