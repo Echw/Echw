@@ -21,6 +21,8 @@ My name is Ewa and I'm a beginner frontend developer. I'm from Poland, living in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echw&repo=MarvelAPI&bg_color=0d1116&title_color=3671e0&text_color=a4aacb&icon_color=007ec6)](https://github.com/Echw/MarvelAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echw&repo=poke_js&bg_color=0d1116&title_color=3671e0&text_color=a4aacb&icon_color=007ec6)](https://github.com/Echw/poke_js)
 
+![Codewars](https://github.r2v.ch/codewars?user=EchwE&stroke=%233ba1d1)
+
 
 <!--
 **Echw/Echw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
